@@ -1,7 +1,7 @@
 body{
-background-image: url("pics/fondo.jpg");
+background-image: url("pics/iamge.jpg");
+background-repeat: no-repeat;
 font-family: arial;
-
 }
 h1{
 font-family: helvetica 18px red;
@@ -13,10 +13,10 @@ color: orange;
 a{text-decoration: none;}
 
 a:hover{
-color green;
+color: green;
 font-size: 12px;
 }
-a:visited:{
+a:visited{
 background-color: white;
 color: black;}
 
